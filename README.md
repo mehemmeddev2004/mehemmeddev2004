@@ -26,4 +26,5 @@
 
 🌐 Software Developer
 
-I have experience as a Full Stack Developer. I studied at Div Academy and received a diploma. I am proficient in technologies such as Express, NestJS, React, Next.js, and Tailwind CSS. I develop high-performance projects for clients and build reliable, scalable systems. I am dedicated to writing clean, maintainable code and solving complex problems efficiently.
+
+Hello! I am a passionate software developer with a commitment to crafting reliable, efficient, and scalable solutions. With a focus on clean code and innovative problem-solving, I thrive in collaborative environments where I can contribute to impactful projects. My expertise spans front-end and back-end technologies, and I am always eager to learn and explore the latest advancements in the tech world. Let's build something great together!
