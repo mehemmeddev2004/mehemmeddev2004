@@ -68,6 +68,16 @@
       </td>
             <td align="center" width="96">
                 <img
+                  src="https://skillicons.dev/icons?i=vercel"
+                  width="48"
+                  height="48"
+                  alt="Vercel"
+                />
+                <br />
+                Vercel
+              </td>
+            <td align="center" width="96">
+                <img
                   src="https://skillicons.dev/icons?i=nextjs"
                   width="48"
                   height="48"
@@ -77,7 +87,7 @@
                 Next.js
               </td>
      
-     
+ 
     
    
   </table>
