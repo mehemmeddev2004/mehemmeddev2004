@@ -68,10 +68,8 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br>GraphQL
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br>Flutter
-      </td>
-    </tr>
+    
+   
   </table>
 </div>
 
