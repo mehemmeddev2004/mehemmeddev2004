@@ -27,6 +27,9 @@
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
         <br>AWS
+      </td>      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+        <br>PostgreSQL
       </td>
     </tr>
     <tr>
@@ -84,10 +87,7 @@
         <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
         <br>GraphQL
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-        <br>PostgreSQL
-      </td>
+
     </tr>
   </table>
 </div>
