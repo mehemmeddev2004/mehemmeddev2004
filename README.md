@@ -6,7 +6,7 @@
      style="float: left; margin-bottom: 5px;" 
      alt="Coding" width="400">
 
-  <table>
+  <table  style ="margin-top: 10px;">
     <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>React
