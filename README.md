@@ -1,4 +1,5 @@
 # Hello! 👋 Who am I? #
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
