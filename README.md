@@ -1,5 +1,9 @@
 # Hello! 👋 Who am I? #
+# 👋 &nbsp;Hi there
 
+I'm a software developer based in Azerbaijan. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like Software Development, coding and building various projects with Next js or React. Slightly obsessed with Home Automation and Home Labs.
+
+&nbsp;
 # 💻 My favorite tools and technologies
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
 
