@@ -8,7 +8,7 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /><br>React
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /><br>Python
+     <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express
       </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /><br>JavaScript
@@ -65,9 +65,7 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>NestJS
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express
-      </td>
+    
    
   </table>
 </div>
