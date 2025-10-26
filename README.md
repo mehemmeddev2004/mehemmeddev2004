@@ -62,12 +62,7 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" /><br>VsCode
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" /><br>Vue
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" /><br>GraphQL
-      </td>
+    
     
    
   </table>
