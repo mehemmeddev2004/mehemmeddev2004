@@ -26,6 +26,9 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
       </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>NestJS
+      </td>
     </tr>
     <tr>
       <td align="center" width="96">
@@ -63,9 +66,7 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" /><br>VsCode
       </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>NestJS
-      </td>
+     
     
    
   </table>
