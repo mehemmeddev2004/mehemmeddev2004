@@ -66,6 +66,16 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" /><br>PHP
       </td>
+            <td align="center" width="96">
+                <img
+                  src="https://skillicons.dev/icons?i=nextjs"
+                  width="48"
+                  height="48"
+                  alt="Next.js"
+                />
+                <br />
+                Next.js
+              </td>
      
      
     
