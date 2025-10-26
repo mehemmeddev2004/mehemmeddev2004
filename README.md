@@ -1,6 +1,4 @@
 # Hello! 👋 Who am I? #
-
-&nbsp;
 # 💻 My favorite tools and technologies
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
 
