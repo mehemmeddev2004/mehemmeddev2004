@@ -62,8 +62,12 @@
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" /><br>VsCode
       </td>
-    
-    
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" /><br>NestJS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" /><br>Express
+      </td>
    
   </table>
 </div>
