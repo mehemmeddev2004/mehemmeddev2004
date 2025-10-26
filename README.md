@@ -2,7 +2,7 @@
 
 # 💻 My favorite tools and technologies
 <div style="display: flex; justify-content: flex-start; align-items: flex-start;">
-<img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" style="margin-buttom:5px" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
   <table>
     <tr>
       <td align="center" width="96">
